@@ -1,3 +1,0 @@
-No idea
-
-# odin-recipes
